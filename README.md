@@ -2,4 +2,5 @@
 
 Bitcoin data analysis and data extraction. 
 Building and testing several models on the data.  
-Comparison of models
+predicts the closing price of Bitcoin.
+Comparison of models.
